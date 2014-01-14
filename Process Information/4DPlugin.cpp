@@ -26,8 +26,8 @@ void PluginMain(int32_t selector, PA_PluginParameters params)
 		{
 			case 7 :				
 			case 8 :
-			case kDeinitPlugin:
-			case kServerDeinitPlugin:				
+//			case kDeinitPlugin:
+//			case kServerDeinitPlugin:				
 				CommandDispatcherInMainProcess (pProcNum, params);
 				break;
 			default:
@@ -48,8 +48,8 @@ void CommandDispatcherInMainProcess (int32_t pProcNum, PA_PluginParameters param
 	{	
 // --- App Nap (10.9)			
 		case 7 :
-		case kDeinitPlugin:
-		case kServerDeinitPlugin:
+//		case kDeinitPlugin:
+//		case kServerDeinitPlugin:
 #if VERSIONMAC
 			if(NSFoundationVersionNumber >= NSFoundationVersionNumber10_8)
 				PA_RunInMainProcess((PA_RunInMainProcessProcPtr)END_IMPORTANT_ACTIVITY, params);
