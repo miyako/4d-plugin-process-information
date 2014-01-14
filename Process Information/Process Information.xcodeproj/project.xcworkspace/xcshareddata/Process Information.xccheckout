@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>365226BE-CD37-45F6-89E6-F575F2015C29</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Process Information</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8C323F66-C33B-4288-A4B4-333DBC1254E1</key>
+		<string>https://github.com/miyako/4d-plugin-process-information.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Process Information/Process Information.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8C323F66-C33B-4288-A4B4-333DBC1254E1</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/miyako/4d-plugin-process-information.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8C323F66-C33B-4288-A4B4-333DBC1254E1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8C323F66-C33B-4288-A4B4-333DBC1254E1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>4d-plugin-process-information</string>
+		</dict>
+	</array>
+</dict>
+</plist>

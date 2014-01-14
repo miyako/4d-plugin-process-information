@@ -5,8 +5,34 @@
 		activeTarget = 8D01CCC60486CAD60068D4B7 /* 4D Plugin */;
 		codeSenseManager = D134D35E1825FAA100F6CD46 /* Code sense */;
 		perUserDictionary = {
-			PBXPerProjectTemplateStateSaveDate = 405142146;
-			PBXWorkspaceStateSaveDate = 405142146;
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					356,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 407063179;
+			PBXWorkspaceStateSaveDate = 407063179;
+		};
+		perUserProjectItems = {
+			D1077C6E18434AD3004ABB92 /* PBXTextBookmark */ = D1077C6E18434AD3004ABB92 /* PBXTextBookmark */;
+			D1077C7018434AD3004ABB92 /* PBXTextBookmark */ = D1077C7018434AD3004ABB92 /* PBXTextBookmark */;
 		};
 		sourceControlManager = D134D35D1825FAA100F6CD46 /* Source Control */;
 		userBuildSettings = {
@@ -30,6 +56,44 @@
 	};
 	8D01CCC60486CAD60068D4B7 /* 4D Plugin */ = {
 		activeExec = 0;
+	};
+	D1077C6E18434AD3004ABB92 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D1077C6F18434AD3004ABB92 /* documentation.htm */;
+		name = "documentation.htm: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 356;
+		vrLoc = 0;
+	};
+	D1077C6F18434AD3004ABB92 /* documentation.htm */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.html;
+		name = documentation.htm;
+		path = "/Users/miyako/github-miyako/4d-plugin-process-information/Process Information/documentation.htm";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {915, 245}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 356}";
+		};
+	};
+	D1077C7018434AD3004ABB92 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D1077C7118434AD3004ABB92 /* documentation.htm */;
+		name = "documentation.htm: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 356;
+		vrLoc = 0;
+	};
+	D1077C7118434AD3004ABB92 /* documentation.htm */ = {
+		isa = PBXFileReference;
+		name = documentation.htm;
+		path = "/Users/miyako/github-miyako/4d-plugin-process-information/Process Information/documentation.htm";
+		sourceTree = "<absolute>";
 	};
 	D120937E13534DCC00A72CAA /* 4DPlugin.h */ = {
 		uiCtxt = {

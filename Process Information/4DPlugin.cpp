@@ -284,6 +284,9 @@ void BEGIN_IMPORTANT_ACTIVITY(PA_PluginParameters params)
     
     NSString *reason = Param2.copyUTF16String();
     
+    if(![reason length])
+        reason = @"important activity";
+    
     NSProcessInfo *processInfo = [NSProcessInfo processInfo]; 
     
     END_IMPORTANT_ACTIVITY(params);
