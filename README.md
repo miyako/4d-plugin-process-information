@@ -22,8 +22,8 @@ PROCESS_Get_GUID
 PROCESS_LOG
 
 // --- App Nap (10.9)
-END_IMPORTANT_ACTIVITY(PA_PluginParameters params);
-BEGIN_IMPORTANT_ACTIVITY(PA_PluginParameters params);
+END_IMPORTANT_ACTIVITY
+BEGIN_IMPORTANT_ACTIVITY
 
 // --- System Information (10.5)
 SYSTEM_Get_cores
