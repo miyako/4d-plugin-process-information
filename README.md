@@ -3,6 +3,8 @@
 
 4D implementation of the ProcessInfo class. Maybe useful to control App Nap in 10.9. Also commands to read command line arguments (Mac and Win).
 
+**Note**: The cross-platfrom portion of this plugin is available as [plugin-process](https://github.com/miyako/4d-plugin-process).
+
 ##Platform
 
 | carbon | cocoa | win32 | win64 |
