@@ -5,7 +5,7 @@
 
 **Note**: The cross-platfrom portion of this plugin is available as [plugin-process](https://github.com/miyako/4d-plugin-process).
 
-See also [prevent-app-nap](https://github.com/miyako/4d-plugin-prevent-app-nap)
+See also: [prevent-app-nap](https://github.com/miyako/4d-plugin-prevent-app-nap)
 
 ### Platform
 
